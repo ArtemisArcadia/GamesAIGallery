@@ -1,4 +1,4 @@
-# GamesAIResit
+# GamesAIGallery
 Gallery Sim
 
 Use: Open the Unity Project and press play. Add objects and tag them with goal if you want the agents to choose it as target to move to.
