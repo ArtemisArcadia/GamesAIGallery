@@ -19,4 +19,4 @@ Add rayCasting to "see", which would allow for more sophisticated perception and
 
 Add more rooms, upstairs and downstairs and a player-controlled character with some perform-able actions e.g. a whistle that calls all active agents to the players position.
 
-Video Documentation (YouTube): https://www.youtube.com/edit?o=U&video_id=HnCFo5mtOPE
+Video Documentation (YouTube): https://www.youtube.com/watch?v=HnCFo5mtOPE
